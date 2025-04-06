@@ -1,6 +1,6 @@
 # APPLICATION_PORTFOLIO_MDELAMO
 
-Welcome to my Application Portfolio for the BSC HPC Internship Programme. This repository showcases a curated collection of projects, code samples, and documents that demonstrate my expertise in high-performance computing (HPC), parallel programming, distributed systems, compiler development, and computer architecture simulation—all within a multidisciplinary framework that combines Business Management and Computer Engineering.
+Welcome to my Application Portfolio for the BSC HPC Internship Programme. 
 
 ## Table of Contents
 
