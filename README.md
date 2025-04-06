@@ -1,15 +1,63 @@
-# APPLICATION PORTFOLIO MDELAMO
+# APPLICATION_PORTFOLIO_MDELAMO
 
-Welcome to my Application Portfolio for the BSC HPC Internship. This repository showcases my projects, code samples, and documents that demonstrate my expertise in scientific computing, high-performance computing (HPC), parallel programming, distributed systems, and more.
+Welcome to my Application Portfolio for the BSC HPC Internship Programme. This repository showcases a curated collection of projects, code samples, and documents that demonstrate my expertise in high-performance computing (HPC), parallel programming, distributed systems, compiler development, and computer architecture simulation—all within a multidisciplinary framework that combines Business Management and Computer Engineering.
 
-**Overview:**
-- **Projects:** Detailed folders for each project, including source code and documentation (e.g., project objectives, technologies used, and outcomes).
-- **Certifications:** PDFs of relevant certifications and course completions.
-- **CV:** My latest curriculum vitae.
-- **Additional Documents:** Supplementary materials such as publications, presentations, and any other supporting documents.
+## Table of Contents
 
-I am passionate about exploring emerging technologies and eager to gain hands-on research experience. This portfolio reflects my commitment to innovation and my interdisciplinary background in business management and computer engineering.
+- [Projects](#projects)
+  - [Parallel Computing](#parallel-computing)
+  - [Computer Architecture](#computer-architecture)
+  - [Automata Theory & Compiler Construction](#automata-theory--compiler-construction)
+  - [Data Structures & Algorithms](#data-structures--algorithms)
+  - [Econometrics](#econometrics)
+- [Certificates](#certificates)
+## Projects
+This folder contains individual project folders, each with its own code, documentation, and detailed README.
 
-Feel free to browse through each section to learn more about my work.
+### Parallel Computing
+- **MPI BFS – 8 Puzzle:**  
+  A project that implements a parallel breadth-first search using MPI to solve the 8-puzzle problem. The report details the design, load balancing, and performance improvements achieved through distributed computing.
+- **OpenMP N-Queens:**  
+  An OpenMP-based solution for the N-Queens problem that explores efficient thread synchronization and workload distribution. Documentation includes performance analysis for different threading models.
+- **Teacher specification for both assignments**  
 
-Thank you for considering my application!
+### Computer Architecture
+- **Processor Simulation & Benchmarking:**  
+  Projects involving simulations of DLX processors and experiments with vector-based and segmented architectures. These projects analyze key performance metrics such as CPI and throughput.
+- **Vector Processing Analysis:**  
+  A project focusing on the design and performance evaluation of vector processing units, highlighting the impact of hardware design on parallel computations.
+
+### Automata Theory & Compiler Construction
+The compiler translates basic control structures and arithmetic expressions into executable code by following these key steps:
+
+1. Lexical Analysis: Implemented a Deterministic Finite Automaton (DFA) to convert source code characters into meaningful tokens.
+
+2. Syntactic Analysis: Developed a recursive descent parser that uses a context-free grammar to validate the structure of the code.
+
+3. Semantic Analysis & Code Generation: Integrated semantic checks during parsing and converted infix expressions to postfix notation, enabling execution on a stack-based virtual machine.
+
+### Data Structures & Algorithms
+- **Core Data Structures & Algorithms:**  
+  Implementations of fundamental data structures (lists, dictionaries, trees). 
+
+### Econometrics
+- **Econometrics Project Report:**  
+  A detailed PDF report documenting an ordinal regression project. 
+
+## Certificates
+This folder includes PDFs of relevant certifications, such as:
+- IELTS Academic Certificate. 
+
+## Final Note
+Thank you for reviewing my portfolio. Although I may still be in the early stages of my research journey, I am incredibly eager to learn, deepen my understanding of scientific computing and advanced system concepts, and continuously improve my skills. I am enthusiastic about the opportunity to grow as a researcher and contribute meaningfully to the innovative projects at BSC.
+
+
+For any questions or further information, please feel free to contact me:
+
+**Marcos del Amo Fernández**  
+Email: mdelamo@upv.edu.es  
+Phone: +34 615 69 17 16  
+[LinkedIn Profile](https://www.linkedin.com/in/marcos-del-amo-fernández-260670257/)
+
+Thank you for reviewing my portfolio!
+
