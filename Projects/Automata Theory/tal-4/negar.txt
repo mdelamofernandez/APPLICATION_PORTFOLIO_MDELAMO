@@ -1,0 +1,8 @@
+entero i
+i := -(2+3)
+
+si i+5 <> 0
+    imprimir "ERROR!"
+sino
+    imprimir "OK: Funciona el operador 'negar'"
+fin

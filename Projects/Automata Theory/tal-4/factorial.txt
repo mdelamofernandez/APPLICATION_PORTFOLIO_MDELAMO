@@ -1,0 +1,38 @@
+cadena caden
+cadena cadenaa
+
+/** *** Probamos...
+un comentario de bloque *** **/
+
+entero enter
+entero enteroo
+
+/*** **** // Probamos...
+otro comentario de bloque **** ***/
+
+entero sii
+entero mientra
+entero mientrass
+
+/* Las variables anteriores sirven para
+comprobar que se analiza correctamente las
+palabras reservadas y los identsiicadores */
+
+entero n // numero a calcular
+entero r // resultado
+entero i // contador
+
+n := 10
+r := 1
+i := 2
+
+mientras !(+(-i) < -(+n))
+    r := r * i
+    i := i - (-1)
+fin
+
+si r = 3628800
+    imprimir "OK: "+ r
+sino
+    imprimir "ERROR: "+ r
+fin

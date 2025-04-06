@@ -1,0 +1,19 @@
+entero n
+entero d
+n := 2
+
+mientras n < 100
+    d := 2
+
+    mientras d * d <= n && n / d * d <> n
+        d := d + 1
+    fin
+
+    si d * d > n
+        imprimir n +" primo!"
+    sino
+        imprimir n +" no"
+    fin
+
+    n := n + 1
+fin

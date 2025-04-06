@@ -1,0 +1,15 @@
+EXPLICACIÓN DE LA PRUEBA EMPÍRICA
+
+La implementación y optimización de ambos algoritmos juegan un papel crucial en su rendimiento real.
+Aunque la programación dinámica es teóricamente más eficiente para problemas grandes, las diferencias prácticas en overhead y acceso a memoria pueden afectar el rendimiento observable.
+Esto destaca la importancia de considerar no solo la complejidad teórica sino también las eficiencias prácticas en la implementación y ejecución de algoritmos.
+
+
+Creemos que puede deberse a las siguientes causas:
+
+        1. Overhead de Programación Dinámica:
+La programación dinámica incluye la sobrecarga de manejar y acceder a la tabla sol.
+        2. Implementación y Optimización:
+Las implementaciones pueden no estar completamente optimizadas.
+        3. Caché y Localidad:
+Si el acceso a memoria en la programación dinámica podría no estar optimizado para la localidad de referencia.
